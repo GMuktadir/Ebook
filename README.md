@@ -7,9 +7,9 @@
 - Kafka权威指南
 
 ## GO
+- Go语言实战
 - Go 学习笔记 第四版
 - Go Web编程
-- Go语言实战
 - 学习 Go 语言
 
 ## Python
