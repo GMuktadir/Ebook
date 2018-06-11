@@ -14,6 +14,7 @@
 
 ## Python
 - 流畅的Python
+- Django
 
 ## Linux
 - Nginx教程从入门到精通
