@@ -13,7 +13,7 @@
 - 学习 Go 语言
 
 ## Python
-- 流畅的Python
+- 流畅的Python(第2版)
 - Django
 
 ## Linux
