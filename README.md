@@ -22,4 +22,4 @@
 
 ## Web
 - HTTP权威指南
-- JavaScript权威指南 第6版
+- JavaScript权威指南 (第6版)
